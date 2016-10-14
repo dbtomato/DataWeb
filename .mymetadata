@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="DataWeb"
+  id="myeclipse.1476236653990"
+  context-root="/DataWeb"
+  j2ee-spec="5.0"
+  archive="DataWeb.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
